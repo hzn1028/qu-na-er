@@ -17,15 +17,15 @@
 
 ## 首页
 
-< img src="./effect_image/index.png" width="290" height="539"/>
+<img src="./effect_image/index.png" width="290" height="539"/>
 
 
 ## 城市选择页
-< img src="./effect_image/city.png" width="290" height="539"/>
+<img src="./effect_image/city.png" width="290" height="539"/>
 
 
 ## 景点详情页
-< img src="./effect_image/detail.png" width="290" height="539"/>
+<img src="./effect_image/detail.png" width="290" height="539"/>
 
 
 
